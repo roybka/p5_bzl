@@ -1,6 +1,6 @@
-# p5js_bzl
+# P5js resources for Bezalel students workshop
 
-## Useful links for learning p5js ##
+## Useful links for learning p5js 
 - https://p5js.org/ (p5js homepage)
 - https://andreasref.github.io/p5js/ (main exersice for workshop)
 - https://nycdoe-cs4all.github.io/index.html (nice course)
